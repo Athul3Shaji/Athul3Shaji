@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Passionate about engineering production-ready Multi-Agent AI workflows, advanced RAG pipelines, high-performance backend microservices, and decentralized systems.</b>
+  <b>Working on engineering production-ready Multi-Agent AI workflows, advanced RAG pipelines, high-performance backend microservices, and decentralized systems.</b>
 </p>
 
 ---
